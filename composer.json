@@ -50,6 +50,7 @@
         "drupal/editor_advanced_link": "^1.4",
         "drupal/chosen": "^2.9",
         "drupal/linkit": "^5.0",
+        "drupal/ckeditor_entity_link": "^1.0@alpha",
         "os2web/os2web_datalookup": "^1.0",
         "os2web/os2web_nemlogin": "^1.0",
         "os2web/os2web_simplesaml": "8.x-dev",
