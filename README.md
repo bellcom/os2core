@@ -18,4 +18,4 @@ drush si os2core --db-url=mysql://db_user:db_pass@mysql_host/db_name--locale=da 
 
 ### Installation profile
 
-The installation profile only enables commonly used ui modules. It is up to the developer to decide which of the supplied OS2Web modules are needed. These can be enabled from the "Modules" page, otherwise they can be removed.
+The installation profile only enables commonly used ui modules. It is up to the developer to decide which of the supplied OS2Core modules are needed. These can be enabled from the "Modules" page, otherwise they can be removed.
