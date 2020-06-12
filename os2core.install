@@ -24,3 +24,11 @@ function os2core_install() {
   // menu links are valid.
   \Drupal::service('router.builder')->rebuildIfNeeded();
 }
+
+/**
+ * Removes unused config setting.
+ */
+function os2core_update_8001() {
+  Drupal::configFactory()->getEditable('automated_cron.settings')->delete();
+  Drupal::configFactory()->getEditable('locale.settings')->delete();
+}
