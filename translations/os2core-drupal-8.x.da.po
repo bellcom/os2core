@@ -646,12 +646,21 @@ msgstr "Forumnavn"
 
 msgid "forum"
 msgstr "forum"
+msgid "OS2Web Bullet point"
+msgstr "Punkt"
 
 msgid "Manage"
 msgstr "Administration"
+msgid "OS2Web Bullet point attachment"
+msgstr "Bilag"
 
 msgid "Refresh"
 msgstr "Opdatér"
+msgid "OS2Web Meetings search"
+msgstr "Møde søgning"
+
+msgid "OS2Web Meeting"
+msgstr "Møde"
 
 msgid "Region"
 msgstr "Region"
