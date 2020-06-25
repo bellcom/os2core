@@ -676,27 +676,43 @@ msgstr "Smagsprøve"
 
 msgid "GUID"
 msgstr "GUID"
+msgid "Borger.dk selfservice"
+msgstr "Borger.dk selvbetjening"
 
 msgid "never"
 msgstr "aldrig"
+msgid "OS2Web Borger.dk article"
+msgstr "Borger.dk artikel"
 
 msgid "Updated"
 msgstr "Opdateret"
+msgid "OS2Web Borger.dk Articles"
+msgstr "Borger.dk artikeler"
 
 msgid "actions"
 msgstr "handlinger"
+msgid "OS2Web Borger.dk Selfservices"
+msgstr "Borger.dk selvbetjeninger"
 
 msgid "Text"
 msgstr "Tekst"
+msgid "Borger.dk article"
+msgstr "Borger.dk artikel"
 
 msgid "Theme"
 msgstr "Tema"
+msgid "Borger.dk microarticle"
+msgstr "Borger.dk mikro artikel"
 
 msgid "Layout"
 msgstr "Layout"
+msgid "Borger.dk Article"
+msgstr "Borger.dk artikel"
 
 msgid "Select a layout"
 msgstr "Vælg et layout"
+msgid "Add Borger.dk microarticle"
+msgstr "Tilføj Borger.dk mikro artikel"
 
 msgid "aggregator"
 msgstr "indsamler"
@@ -712,9 +728,13 @@ msgstr "Tilføj forum"
 
 msgid "Add term"
 msgstr "Tilføj ord"
+msgid "Borger.dk Article"
+msgstr "Borger.dk artikel"
 
 msgid "Search keywords"
 msgstr "Søgeord"
+msgid "Add Borger.dk microarticle"
+msgstr "Tilføj Borger.dk mikro artikel"
 
 msgid "Timestamp"
 msgstr "Tidsstempel"
@@ -35674,13 +35694,21 @@ msgid ""
 msgstr ""
 "Definerer hvornår en søgemaskine skal genindeksere siden. Det er kun "
 "få søgemaskiner som understøtter denne."
+msgid "Add Borger.dk article"
+msgstr "Tilføj Borger.dk artikel"
 
 msgid "Edit own field"
 msgstr "Redigér eget felt"
+msgid "Add Borger.dk selfservice"
+msgstr "Tilføj Borger.dk selvbetjening"
 
 msgid "View own field"
 msgstr "Vis eget felt"
+msgid "OS2Web Borger.dk Article reference field"
+msgstr "Artikel"
 
 msgid "Progression"
 msgstr "Fremskridt"
+msgid "OS2Web Borger.dk selfservice reference"
+msgstr "Borger.dk selvbetjeningsreferencer"
 
