@@ -5520,6 +5520,8 @@ msgstr "Ikke i menu"
 
 msgid "Alias: @alias"
 msgstr "Alias: @alias"
+msgid "Add @type"
+msgstr "Tilføj @type"
 
 msgid "No alias"
 msgstr "Intet alias"
@@ -28644,6 +28646,9 @@ msgstr "Er du sikker på du vil slette @label konteksten?"
 msgid ""
 "A unique machine-readable name for this @entity_type. It must only "
 "contain lowercase letters, numbers, and underscores."
+
+msgid "Add @type_singular"
+msgstr "Tilføj @type_singular"
 msgstr ""
 "Et unikt maskin-læsbart navn for denne @entity_type. Det kan kun "
 "indeholde små bogstaver, tal og understregninger (underscore)."
