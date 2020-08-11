@@ -12,7 +12,7 @@ Example:
 ```
 composer create-project drupal-composer/drupal-project:8.x-dev [your_project_name] --no-interaction
 cd [your_project_name]
-composer require os2come/os2core
+composer require os2core/os2core
 drush si os2core --db-url=mysql://db_user:db_pass@mysql_host/db_name--locale=da --site-name="OS2Core Drupal project" --account-pass=admin -y
 ```
 
