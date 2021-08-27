@@ -41,7 +41,7 @@
         "drupal/scheduler": "^1.1",
         "drupal/token": "^1.5",
         "drupal/entity": "^1.0-rc3",
-        "drupal/admin_toolbar": "^2.0",
+        "drupal/admin_toolbar": "^3.0",
         "drupal/entity_browser": "2.2.0",
         "drupal/entity_embed": "1.0",
         "drupal/image_widget_crop": "^2.1",
