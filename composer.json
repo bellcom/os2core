@@ -42,11 +42,7 @@
         "drupal/token": "^1.5",
         "drupal/entity": "^1.0-rc3",
         "drupal/admin_toolbar": "^3.0",
-<<<<<<< HEAD
         "drupal/entity_browser": "^2.5",
-=======
-        "drupal/entity_browser": "2.2.0",
->>>>>>> master
         "drupal/entity_embed": "^1.0",
         "drupal/image_widget_crop": "^2.1",
         "drupal/crop": "^2.0.0-rc1",
