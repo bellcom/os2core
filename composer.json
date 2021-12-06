@@ -42,7 +42,11 @@
         "drupal/token": "^1.5",
         "drupal/entity": "^1.0-rc3",
         "drupal/admin_toolbar": "^3.0",
+<<<<<<< HEAD
         "drupal/entity_browser": "^2.5",
+=======
+        "drupal/entity_browser": "2.2.0",
+>>>>>>> master
         "drupal/entity_embed": "^1.0",
         "drupal/image_widget_crop": "^2.1",
         "drupal/crop": "^2.0.0-rc1",
@@ -52,6 +56,7 @@
         "drupal/linkit": "^5.0",
         "drupal/ckeditor_entity_link": "^1.0@alpha",
         "drupal/drush_language": "^1.0@RC",
+        "drupal/ldap_auth": "^1.17",
         "os2web/os2web_datalookup": "^1.0",
         "os2web/os2web_nemlogin": "^1.0",
         "os2web/os2web_simplesaml": "8.x-dev",
