@@ -24,7 +24,7 @@
         "drupal/easy_breadcrumb": "^2.0",
         "drupal/embed": "^1.0",
         "drupal/field_group": "^3.1",
-        "drupal/eu_cookie_compliance": "^1.8",
+        "drupal/eu_cookie_compliance": "^1.20.0-beta1",
         "drupal/extlink": "^1.1",
         "drupal/ckeditor_a11ychecker": "1.x-dev#a2099d09f362d8b005a53e8f2845858424cac3da",
         "drupal/address": "^1.7",
