@@ -49,7 +49,7 @@
         "drupal/inline_entity_form": "^1.0",
         "drupal/editor_advanced_link": "^1.4",
         "drupal/chosen": "^2.9",
-        "drupal/linkit": "^5.0",
+        "drupal/linkit": "^5.0 || ^6.0",
         "drupal/ckeditor_entity_link": "^1.0@alpha",
         "drupal/drush_language": "^1.0@RC",
         "drupal/ldap_auth": "^1.17",
