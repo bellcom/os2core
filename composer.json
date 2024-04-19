@@ -47,7 +47,7 @@
         "drupal/image_widget_crop": "^2.1",
         "drupal/crop": "^2.0.0-rc1",
         "drupal/inline_entity_form": "^1.0",
-        "drupal/editor_advanced_link": "^1.4",
+        "drupal/editor_advanced_link": "^1.4 || ^2.2",
         "drupal/chosen": "^2.9",
         "drupal/linkit": "^5 || ^6",
         "drupal/ckeditor_entity_link": "^1.0@alpha",
