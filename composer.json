@@ -13,14 +13,21 @@
         "assets": {
             "type": "composer",
             "url": "https://asset-packagist.org"
+        },
+        "os2": {
+            "type": "path",
+            "url": "/var/www/develop/*",
+            "options": {
+                "symlink": false
+            }
         }
     },
     "require": {
-        "drupal/core": "^8.7 || ^9",
+        "drupal/core": "^8.7 || ^9 || ^10",
         "drupal/config_ignore": "^2.1",
         "drupal/config_split": "^2.0@beta",
         "drupal/ctools": "^3.2",
-        "drupal/module_filter": "^3.1",
+        "drupal/module_filter": "^3.1 || ^4.1",
         "drupal/easy_breadcrumb": "^2.0",
         "drupal/embed": "^1.0",
         "drupal/field_group": "^3.1",
@@ -30,15 +37,15 @@
         "drupal/address": "^1.7",
         "drupal/mailsystem": "^4.1",
         "drupal/smtp": "^1.0@beta",
-        "drupal/metatag": "^1.10",
+        "drupal/metatag": "^2.0",
         "drupal/honeypot": "^2.0",
         "drupal/environment_indicator": "^4.0",
-        "drupal/better_exposed_filters": "^5.0@beta",
+        "drupal/better_exposed_filters": "^5.0@beta || ^6.0",
         "drupal/pathauto": "^1.8",
-        "drupal/pathologic": "^1.0@alpha",
+        "drupal/pathologic": "^1.0@alpha || ^2.0@alpha",
         "drupal/redirect": "^1.4",
         "drupal/paragraphs": "^1.10",
-        "drupal/scheduler": "^1.1",
+        "drupal/scheduler": "dev-2.x",
         "drupal/token": "^1.5",
         "drupal/entity": "^1.0-rc3",
         "drupal/admin_toolbar": "^3.0",
@@ -46,15 +53,19 @@
         "drupal/entity_embed": "^1.0",
         "drupal/image_widget_crop": "^2.1",
         "drupal/crop": "^2.0.0-rc1",
-        "drupal/inline_entity_form": "^1.0",
-        "drupal/editor_advanced_link": "^1.4",
-        "drupal/chosen": "^2.9",
-        "drupal/linkit": "^5.0 || ^6.0",
+        "drupal/inline_entity_form": "^1.0 || ^2.0 || ^3.0",
+        "drupal/editor_advanced_link": "^1.4 || ^2.2",
+        "drupal/chosen": "^4.0",
+        "drupal/linkit": "^5 || ^6",
         "drupal/ckeditor_entity_link": "^1.0@alpha",
         "drupal/drush_language": "^1.0@RC",
         "os2web/os2web_datalookup": "^1.0",
-        "os2web/os2web_nemlogin": "^1.0",
         "os2web/os2web_simplesaml": "8.x-dev",
         "os2web/os2web_simplesaml_checklist": "dev-develop"
+    },
+    "config": {
+        "allow-plugins": {
+            "simplesamlphp/composer-module-installer": true
+        }
     }
 }
