@@ -42,7 +42,7 @@
         "drupal/environment_indicator": "^4.0",
         "drupal/better_exposed_filters": "^5.0@beta || ^6.0",
         "drupal/pathauto": "^1.8",
-        "drupal/pathologic": "^1.0@alpha || ^2.0@alpha",
+        "drupal/pathologic": "^2.0@alpha",
         "drupal/redirect": "^1.4",
         "drupal/paragraphs": "^1.10",
         "drupal/scheduler": "dev-2.x",
