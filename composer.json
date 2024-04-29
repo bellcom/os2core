@@ -61,7 +61,7 @@
         "drupal/drush_language": "1.x-dev@dev",
         "os2web/os2web_datalookup": "^1.0",
         "os2web/os2web_simplesaml": "dev-drupal10",
-        "os2web/os2web_simplesaml_checklist": "dev-develop"
+        "os2web/os2web_simplesaml_checklist": "dev-drupal10"
     },
     "config": {
         "allow-plugins": {
