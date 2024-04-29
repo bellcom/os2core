@@ -29,3 +29,8 @@ install:
 
 themes:
   - claro
+distribution:
+  name: OS2core
+  install:
+    theme: claro
+
