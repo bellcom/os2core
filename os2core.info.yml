@@ -6,7 +6,7 @@ install:
   # Drupal core
   - node
   - block
-  - ckeditor
+  - ckeditor5
   - config
   - contextual
   - menu_link_content
