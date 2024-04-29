@@ -45,7 +45,7 @@
         "drupal/pathologic": "^2.0@alpha",
         "drupal/redirect": "^1.4",
         "drupal/paragraphs": "^1.10",
-        "drupal/scheduler": "dev-2.x",
+        "drupal/scheduler": "^2.0",
         "drupal/token": "^1.5",
         "drupal/entity": "^1.0-rc3",
         "drupal/admin_toolbar": "^3.0",
