@@ -23,16 +23,6 @@ function os2core_install() {
   // We install some menu links, so we have to rebuild the router, to ensure the
   // menu links are valid.
   \Drupal::service('router.builder')->rebuildIfNeeded();
-
-  \Drupal::configFactory()
-    ->getEditable('system.theme')
-    ->set('default', 'claro')
-    ->save();
-
-  \Drupal::configFactory()
-    ->getEditable('system.theme')
-    ->set('admin', 'claro')
-    ->save();
 }
 
 /**
