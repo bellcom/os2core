@@ -56,14 +56,10 @@
         "drupal/editor_advanced_link": "^2.x-dev",
         "drupal/chosen": "^4.0",
         "drupal/linkit": "^6",
+        "drupal/ckeditor_entity_link": "dev-1.x",
         "drupal/drush_language": "^1.0@RC",
         "os2web/os2web_datalookup": "^1.0",
         "os2web/os2web_simplesaml": "dev-drupal10",
         "os2web/os2web_simplesaml_checklist": "dev-drupal10"
-    },
-    "config": {
-        "allow-plugins": {
-            "simplesamlphp/composer-module-installer": true
-        }
     }
 }
