@@ -55,7 +55,7 @@
         "drupal/inline_entity_form": "^3.0",
         "drupal/editor_advanced_link": "^2.x-dev",
         "drupal/chosen": "^3.0 || ^4.0",
-        "drupal/linkit": "^6",
+        "drupal/linkit": "^6.0",
         "drupal/ckeditor_entity_link": "dev-1.x",
         "drupal/drush_language": "^1.0@RC",
         "os2web/os2web_datalookup": "^1.0",
