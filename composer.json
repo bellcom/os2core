@@ -50,7 +50,7 @@
         "drupal/admin_toolbar": "^3.0",
         "drupal/entity_browser": "^2.5",
         "drupal/entity_embed": "^1.0",
-        "drupal/image_widget_crop": "^2.1",
+        "drupal/image_widget_crop": "^3.0",
         "drupal/crop": "^2.0.0-rc1",
         "drupal/inline_entity_form": "^3.0",
         "drupal/editor_advanced_link": "^2.x-dev",
