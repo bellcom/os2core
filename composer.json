@@ -56,7 +56,6 @@
         "drupal/editor_advanced_link": "^2.x-dev",
         "drupal/chosen": "^3.0 || ^4.0",
         "drupal/linkit": "^7.0",
-        "drupal/ckeditor_entity_link": "dev-1.x",
         "drupal/drush_language": "^1.0@RC"
     }
 }
