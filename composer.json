@@ -53,7 +53,7 @@
         "drupal/image_widget_crop": "^3.0",
         "drupal/crop": "^2.0.0-rc1",
         "drupal/inline_entity_form": "^3.0",
-        "drupal/editor_advanced_link": "^2.x-dev",
+        "drupal/editor_advanced_link": "^2.3",
         "drupal/chosen": "^3.0 || ^4.0 || ^5.0",
         "drupal/linkit": "^7.0"
     }
